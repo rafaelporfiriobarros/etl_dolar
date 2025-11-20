@@ -57,8 +57,6 @@ etl_dolar/
 docker compose up -d postgres
 ```
 
-Aguarde alguns segundos.
-
 ## **2. Inicializar o banco do Airflow**
 
 ```bash
@@ -106,7 +104,7 @@ SELECT * FROM cotacao_dolar ORDER BY timestamp DESC LIMIT 20;
 
 # Explicação dos Scripts
 
-A seguir, uma explicação clara e profissional de cada parte do projeto.
+A seguir, uma explicação de cada parte do projeto.
 
 ---
 
