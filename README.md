@@ -25,7 +25,7 @@ Dashboard / Consultas
 
 ---
 
-# 📁 Estrutura de Diretórios
+# Estrutura de Diretórios
 
 ```
 etl_dolar/
