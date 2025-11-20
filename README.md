@@ -18,9 +18,6 @@ API (AwesomeAPI)
         │
         ▼
 [LOAD] → Gold (PostgreSQL)
-        │
-        ▼
-Dashboard / Consultas
 ```
 
 ---
